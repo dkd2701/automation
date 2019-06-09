@@ -17,7 +17,7 @@ arr[4]="public";
 
 System.out.println(arr.length);
 
-for (int i=0; i<4; i++) {
+for (int i=0; i<=4; i++) {
 	System.out.println(arr[i]);
 }
 

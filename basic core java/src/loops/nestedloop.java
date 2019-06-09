@@ -9,7 +9,7 @@ public class nestedloop {
 		{
 			for(int c=1; c<=5; c++) 
 			{
-				System.out.println("row num="+r+ "col num="+c);
+				System.out.println("row num="+r+ " col num="+c);
 			}
 			
 		}

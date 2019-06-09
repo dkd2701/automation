@@ -10,13 +10,14 @@ public class arthematicclass {
 		System.out.println(a+b);
 		
 		//- operator 
-		System.out.println(b-a);
+		System.out.print(b-a);
 		
 		// * operator 
-		System.out.println(a*b);
+		System.out.print(a*b);
 		
 		// % - mode
-		System.out.println(17%19);
+		System.out.print(17%19);
+		
 
 	}
 

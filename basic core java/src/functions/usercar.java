@@ -16,6 +16,13 @@ car car2 = new car();
 car2.name="polo";
 car2.colour="black";
 car2.driving();
+
+car car3 = new car();
+car3.name="maruti800";
+car3.colour="red";
+car3.driving();
+
+
 	
 
 

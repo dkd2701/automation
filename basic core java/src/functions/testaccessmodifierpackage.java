@@ -9,6 +9,7 @@ public class testaccessmodifierpackage {
 		
 		obj.publicmethod();
 		obj.nonaccessmethod();
+		obj.protectedmethod();
 
 	}
 

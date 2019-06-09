@@ -10,6 +10,7 @@ public class Acessmodifiers {
 		obj.publicmethod();
 		obj.privatemethod();
 		obj.nonaccessmethod();
+		obj.pr
 		
 	}
 	
